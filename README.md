@@ -60,7 +60,7 @@ python word_counter.py
 
 # Output
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/03c4ff2b-f095-4457-8cd6-6777e4b4385a" />
 
 # 🚀 Future Improvements
 
