@@ -48,7 +48,7 @@ Enter file name: sample.txt
 
 Clone this repository:
 
-git clone https://github.com/your-username/word-counter.git
+git clone https://github.com/meysiii/FILE-WORD-COUNTER/edit/main/README.md
 cd word-counter
 
 
